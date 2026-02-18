@@ -1,11 +1,11 @@
 # messenger-ninja
 Because I only want Messenger
 
-#Install Dependencies
+# Install Dependencies
 npm install
 
-#Start in dev
+# Start in dev
 npm start
 
-#Generate installer
+# Generate installer
 npm run dist
